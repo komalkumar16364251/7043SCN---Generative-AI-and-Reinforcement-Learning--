@@ -26,6 +26,16 @@ PPO is a reinforcement learning algorithm that improves learning stability and e
 
 ---
 
+### Instalation
+
+You can use our pip installation:
+
+```python
+   pip install chefshatgym
+
+```
+Refer to our full [documentation](https://chefshatgym.readthedocs.io/en/latest/) for a complete usage and development guide.
+
 ## Environment
 
 - ChefHat simulated card game
